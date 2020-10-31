@@ -1,14 +1,14 @@
 ### Hi there 👋
-### 你好
+### 你好 👋🏻️
 
 - BUPT Comunication Engineering Undergraduate.
-- 19岁，是学生。
+- 19岁，是野🐓️带学学生。
 - Still too weak now.
-- 啥都不会。
+- 菜得不行🥬。
 - Longing to be armed with passion and wisdom.
 - 困困困😴️
 
-> 雄关漫道真如铁
+### 雄关漫道真如铁
 <!--
 **ClSlaid/ClSlaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
