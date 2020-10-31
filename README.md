@@ -1,5 +1,5 @@
-### Hi there 👋
-### 你好 👋🏻️
+### Hi there 👋, my name is ClSlaid
+### 你好 👋🏻️，我是ClSlaid
 
 - BUPT Comunication Engineering Undergraduate.
 - 19岁，是野🐓️带学学生。
@@ -8,7 +8,14 @@
 - Longing to be armed with passion and wisdom.
 - 困困困😴️
 
-### 雄关漫道真如铁
+### 雄关漫道真如铁 而今迈步从头越
+### However Difficult It Might Seem, The Challenge Will Be Overcome
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClSlaid&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ClSlaid)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **ClSlaid/ClSlaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
