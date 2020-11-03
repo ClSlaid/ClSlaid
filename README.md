@@ -9,6 +9,7 @@
 - Longing to be armed with passion and wisdom.
 - 困困困😴️
 - Learning Vim
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClSlaid&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ClSlaid)](https://github.com/anuraghazra/github-readme-stats)
 
