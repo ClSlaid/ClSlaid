@@ -2,6 +2,7 @@
 ### 你好 👋🏻️，我是ClSlaid
 #### However Difficult It Might Seem, The Challenge Will Be Overcome
 #### 雄关漫道真如铁 而今迈步从头越
+- 🔭 I'm currently working on simple BUPT-CES's 16-bits CPU Developing course.
 - BUPT Comunication Engineering Undergraduate.
 - 19岁，是野🐓️带学学生。
 - Still too weak now.
