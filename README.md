@@ -15,7 +15,6 @@
 - Learning Vim
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClSlaid&count_private=false&show_icons=true&hide=html,scss)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ClSlaid&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 **Way to 1.048596**
