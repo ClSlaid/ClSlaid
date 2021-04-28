@@ -18,7 +18,7 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ClSlaid&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Go       4 hrs 37 mins   █████████████████████████   99.62 % 
 ```
 <!--END_SECTION:waka-->
 
