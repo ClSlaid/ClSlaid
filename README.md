@@ -7,7 +7,7 @@
 <!--- 🔭 I'm currently working on [simple BUPT-CES's 16-bits CPU Developing course](https://github.com/ClSlaid/Naive_CPU). -->
 - 🔭 I'm currently working on PingCAP's Talent Plan, wish I could commit a PR to Chaos Mesh!
 - BUPT Comunication Engineering Undergraduate.
-- 19岁，是野🐓️带学学生。
+- 20岁，是野🐓️带学学生。
 - Still too weak now.
 - 菜得不行🥬。
 - Longing to be armed with passion and wisdom.
