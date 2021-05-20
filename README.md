@@ -18,11 +18,11 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ClSlaid&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
 ```text
-Go         3 hrs 53 mins   ████████░░░░░░░░░░░░░░░░░   32.61 % 
-Markdown   2 hrs 59 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.07 % 
-Python     2 hrs 44 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.90 % 
-TeX        1 hr 29 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
-Other      16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+Go       12 hrs 1 min    ██████████████████░░░░░░░   71.82 % 
+C++      55 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+Rust     47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+MATLAB   45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+JSON     38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
 ```
 <!--END_SECTION:waka-->
 
