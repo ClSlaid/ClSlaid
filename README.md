@@ -1,14 +1,16 @@
 ### Hi there 👋, I'm ClSlaid
 ### 你好 👋🏻️，我是ClSlaid
-#### However Difficult It Might Seem, The Challenge Will Be Overcome
-#### 雄关漫道真如铁 而今迈步从头越
+<!-- #### However Difficult It Might Seem, The Challenge Will Be Overcome
+#### 雄关漫道真如铁 而今迈步从头越 -->
+> Across the Great Wall we can reach every corner of the world.
 
 
 <!--- 🔭 I'm currently working on [simple BUPT-CES's 16-bits CPU Developing course](https://github.com/ClSlaid/Naive_CPU). -->
-- 🔭 I'm currently working on PingCAP's Talent Plan, wish I could commit a PR to Chaos Mesh!
-- BUPT Comunication Engineering Undergraduate.
+<!-- - 🔭 I'm currently working on PingCAP's Talent Plan, wish I could commit a PR to Chaos Mesh! -->
+- 🔭 I'm currently preparing for Postgraduate Recruiting Test.
+- BUPT Communication Engineering Undergraduate.
 - 20岁，是野🐓️带学学生。
-- Still too weak now.
+- Still too weak now🥬.
 - 菜得不行🥬。
 - Longing to be armed with passion and wisdom.
 - 困困困😴️
