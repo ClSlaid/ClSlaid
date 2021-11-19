@@ -2,7 +2,10 @@
 ### 你好 👋🏻️，我是ClSlaid
 <!-- #### However Difficult It Might Seem, The Challenge Will Be Overcome
 #### 雄关漫道真如铁 而今迈步从头越 -->
-> Across the Great Wall we can reach every corner of the world.
+<!-- Across the Great Wall we can reach every corner of the world. -->
+> Die Philosophen haben die Welt nur verschieden interpretiert; es kommt darauf an, sie zu verändern.
+
+> 哲学家们只是用不同的方式解释世界，问题在于改变世界。
 
 
 <!--- 🔭 I'm currently working on [simple BUPT-CES's 16-bits CPU Developing course](https://github.com/ClSlaid/Naive_CPU). -->
