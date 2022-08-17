@@ -12,7 +12,7 @@
 <!-- - 🔭 I'm currently working on PingCAP's Talent Plan, wish I could commit a PR to Chaos Mesh! -->
 - 🔭 I'm currently preparing for Postgraduate Recruiting Test.
 - BUPT Communication Engineering Undergraduate.
-- 20岁，是野🐓️带学学生。
+- 21岁，是野🐓️带学学生。
 - Still too weak now🥬.
 - 菜得不行🥬。
 - Longing to be armed with passion and wisdom.
