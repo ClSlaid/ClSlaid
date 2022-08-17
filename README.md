@@ -23,7 +23,11 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ClSlaid&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Rust         23 hrs 24 mins  ████████████████████████░   95.41 % 
+Go           26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+TOML         26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+Git Config   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Markdown     5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 ```
 <!--END_SECTION:waka-->
 
