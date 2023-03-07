@@ -11,7 +11,7 @@
 <!--- 🔭 I'm currently working on [simple BUPT-CES's 16-bits CPU Developing course](https://github.com/ClSlaid/Naive_CPU). -->
 <!-- - 🔭 I'm currently working on PingCAP's Talent Plan, wish I could commit a PR to Chaos Mesh! -->
 <!-- - 🔭 I'm currently preparing for Postgraduate Recruiting Test. -->
-- 🔭 Intern of @datafuselabs.
+<!-- 🔭 Intern of @datafuselabs. -->
 <!-- - BUPT Communication Engineering Undergraduate. -->
 - BUPT SCS Graduate
 - Still too weak now🥬.
