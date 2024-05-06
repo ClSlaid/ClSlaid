@@ -1,23 +1,19 @@
 ### Hi there 👋, I'm ClSlaid
 ### 你好 👋🏻️，我是ClSlaid
-<!-- #### However Difficult It Might Seem, The Challenge Will Be Overcome
-#### 雄关漫道真如铁 而今迈步从头越 -->
-<!-- Across the Great Wall we can reach every corner of the world. -->
-> Die Philosophen haben die Welt nur verschieden interpretiert; es kommt darauf an, sie zu verändern.
 
-> 哲学家们只是用不同的方式解释世界，问题在于改变世界。
 
+> Across the Great Wall we can reach every corner of the world.
 
 <!--- 🔭 I'm currently working on [simple BUPT-CES's 16-bits CPU Developing course](https://github.com/ClSlaid/Naive_CPU). -->
 <!-- - 🔭 I'm currently working on PingCAP's Talent Plan, wish I could commit a PR to Chaos Mesh! -->
 <!-- - 🔭 I'm currently preparing for Postgraduate Recruiting Test. -->
 <!-- 🔭 Intern of @datafuselabs. -->
-<!-- - BUPT Communication Engineering Undergraduate. -->
-- BUPT SCS Graduate
+
+- BUPT SCS Graduate Student.
 - Still too weak now🥬.
 - Longing to be armed with passion and wisdom.
-- Losing faith.
-
+- Étudier le français.
+- Restez calme et continuez normalement.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ClSlaid&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
